@@ -1,0 +1,1 @@
+sap.ui.define(["sap/suite/ui/generic/template/lib/AppComponent"],function(e){return e.extend("CGDC.cis-ad-gfp-profile.Component",{metadata:{manifest:"json"}})});
